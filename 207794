@@ -13,9 +13,9 @@ import random
 import urllib
 import io
 
-bot = Bot("AUTH")
-target = "GUID"
-answered = [bot.getGroupAdmins]
+bot = Bot("hqmpzihkcnpkqqipiowxjnffvvlyondk"
+target = "g0B5mh105a0297c093014377e01f4216"
+پاسخ داده شده = [bot.getGroupAdmins]
 retries = {}
 sleeped = False
 # delmess = ["دولی","کصکش","کون","کص","کیر" ,"خر","کستی","دول","گو","کس","کسکش","کوبص"]
